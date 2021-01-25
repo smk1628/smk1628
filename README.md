@@ -25,7 +25,7 @@ Welcom here 👋
 <code>React</code>
 <code>CSS</code> 
 
-**state:**
+**State:**
 <span>🌱 I’m currently learning </span> 
 
 <div class="half">
