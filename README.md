@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hey, stranger.
 
-Welcom here 👋
+Welcom here 👋 
 
 **Languages:**  
 
@@ -41,5 +41,5 @@ Welcom here 👋
   <a href="https://github.com/smk1628/HTML"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smk1628&repo=HTML&title_color=fff&icon_color=1abc9c&text_color=798795&bg_color=2c3e50&show_owner=true" /></a>
   <a href="https://github.com/smk1628/webpack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=smk1628&repo=webpack&title_color=fff&icon_color=1abc9c&text_color=798795&bg_color=2c3e50&show_owner=true" /></a>
 </div>
-
+<p> For you, a thousand times over.</p>
 
