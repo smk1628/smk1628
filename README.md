@@ -26,7 +26,7 @@ Welcom here 👋
 <code>CSS</code> 
 
 **state:**
-<span><img height="18" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png"> Focusing </span> 
+<span>🌱 I’m currently learning </span> 
 
 <div class="half">
   <a href="https://github.com/smk1628"><img src="https://github-readme-stats.vercel.app/api?username=smk1628&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"  height="222" ></img></a>
