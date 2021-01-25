@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hey, stranger.
 
-Welcom here 👋 
+Welcome here 👋 
 
 **Languages:**  
 
