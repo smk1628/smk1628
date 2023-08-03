@@ -43,4 +43,4 @@ Welcome here 👋
 </div>
 <p><font style="color:red;"> </font></>
  
- <code>For you, a thousand times over.   为你,千千万万遍.</code> 
+ <code>For you, a thousand times over.</code> 
